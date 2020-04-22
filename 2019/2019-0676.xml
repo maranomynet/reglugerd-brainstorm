@@ -13,6 +13,9 @@
 		<lawChapters>
 			<chapter parent="Sjávarútvegur, fiskveiðar fiskirækt">Heimildir fiskveiða fiskvinnslu</chapter>
 		</lawChapters>
+		<modifiedBy>
+			<regulation>363/2020</regulation>
+		</modifiedBy>
 	</meta>
 	<html:body xmlns:html="http://www.w3.org/1999/xhtml">
 		<h3 class="article__title">
