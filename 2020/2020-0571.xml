@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<reglugerd>
+	<meta>
+		<type>breytinga</type>
+		<state>active</state>
+		<number>571/2020</number>
+		<name>Reglugerð um (2.) breytingu á reglugerð nr. 676/2019, um úthlutun byggðakvóta til fiskiskipa á fiskveiðiárinu 2019/2020.</name>
+		<dateSigned>2020-06-09</dateSigned>
+		<datePublished>2020-06-11</datePublished>
+		<dateEffective>2020-06-11</dateEffective>
+		<printFile>https://www.stjornartidindi.is/DocumentActions.aspx?ActionType=Open&amp;documentID=f2de2518-888a-4cbd-95a7-6d10dc3cb1c9</printFile>
+		<ministry>Atvinnuvega- og nýsköpunarráðuneyti</ministry>
+		<lawChapters>
+			<chapter parent="Sjávarútvegur, fiskveiðar fiskirækt">Heimildir fiskveiða fiskvinnslu</chapter>
+		</lawChapters>
+		<modifies>
+			<regulation>676/2019</regulation>
+		</modifies>
+		<disables>
+			<regulation>83/1934</regulation>
+		</disables>
+	</meta>
+	<html:body xmlns:html="http://www.w3.org/1999/xhtml">
+		<h3 class="article__title">1. gr.</h3>
+
+		<p>
+			A-liður 1. mgr. 1. gr. reglugerðarinnar orðast svo: Hafa við lok umsóknarfrests
+			leyfi til veiða í atvinnuskyni, sbr. 4. gr. laga um stjórn fiskveiða eða
+			strandveiðileyfi, sbr. 6. gr. a, laga um stjórn fiskveiða.
+		</p>
+
+		<h3 class="article__title">2. gr.</h3>
+
+		<p>
+			Reglugerð þessi er sett samkvæmt ákvæðum laga nr. 79/1997, um veiðar í
+			fiskveiðilandhelgi Íslands, laga nr. 116/2006, um stjórn fisk­veiða, laga nr.
+			57/1996, um umgengni um nytjastofna sjávar og öðlast þegar gildi.
+		</p>
+
+		<p align="center"><em>Atvinnuvega- og nýsköpunarráðuneytinu, 9. júní 2020.</em></p>
+
+		<p align="center">
+			<strong>Kristján Þór Júlíusson</strong><br />
+			sjávarútvegs- og landbúnaðarráðherra.
+		</p>
+
+		<p align="right"><em>Jóhann Guðmundsson.</em></p>
+	</html:body>
+</reglugerd>

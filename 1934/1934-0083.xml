@@ -13,6 +13,9 @@
 		<lawChapters>
 			<chapter parent="Heilbrigðismál">Andlát</chapter>
 		</lawChapters>
+		<disabledBy>
+			<regulation>571/2020</regulation>
+		</disabledBy>
 	</meta>
 	<html:body xmlns:html="http://www.w3.org/1999/xhtml">
 		<p>
