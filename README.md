@@ -12,7 +12,7 @@ eftirfarandi formi:
 
 Stofnreglugerð gefin út:
 
-    Ný reglugerð: 866/2017
+    Ný reglugerð: 866/2017 – Reglugerð um för yfir landamæri.
 
 Vandræðaleg innsláttarmistök leiðrétt stuttu eftir útgáfu:
 
@@ -20,7 +20,7 @@ Vandræðaleg innsláttarmistök leiðrétt stuttu eftir útgáfu:
 
 Breytingareglugerð gefin út:
 
-    Ný reglugerð: 586/2020  (breytir 866/2017)
+    Ný reglugerð: 586/2020 – Reglugerð um breytingu á reglugerð um för yfir landamæri, nr. 866/2017.
 
 Uppfærsla á texta stofnreglugerðarinnar sem er breytt (sett á branch að nafni
 `ahrif/2020/568`):
