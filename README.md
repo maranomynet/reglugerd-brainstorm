@@ -21,9 +21,9 @@ Breytingareglugerð gefin út:
     Ný reglugerð: 586/2020 – Reglugerð um breytingu á reglugerð um för yfir landamæri, nr. 866/2017.
 
 Uppfærsla á texta stofnreglugerðarinnar sem er breytt (sett á branch að nafni
-`ahrif/2020/568`):
+`ahrif/2020-06-15/568-2020`):
 
-    Áhrif: 586/2020
+    Áhrif: 586/2020 (tekur gildi: 2020-06-15)
 
 Daginn sem breytingareglugerð tekur gildi (oftast samdægurs) er áhrifa-branch
 hennar fellt inn (e. merged) á aðal-branchið:
@@ -31,8 +31,13 @@ hennar fellt inn (e. merged) á aðal-branchið:
     Gildistaka: 586/2020
 
 **Ath** að ef Stofnreglugerð ógildir aðrar reglugerðir, þá verður til
-samsvarandi "áhrifa" breyting á `ahrif/YYYY/XXX` branchi og í framhaldi af því
-"gildistöku" innfelling (merge) daginn sem stofnreglugerðin tekur gildi.
+samsvarandi "áhrifa" breyting á `ahrif/YYYY-MM-DD/xxx-yyyy` branchi og í
+framhaldi af því "gildistöku" innfelling (merge) daginn sem stofnreglugerðin
+tekur gildi.
+
+**Ath 2:** Ef breytingareglugerð tekur gildi í tveimur eða fleiri skrefum,
+þarf að útbúa aðskilin áhrifa-brönch – `ahrif/YYYY-MM-DD/xxx-yyyy-a`,
+`ahrif/YYYY-MM-DD/xxx-yyyy-b`, `ahrif/YYYY-MM-DD/xxx-yyyy-c`
 
 ---
 
