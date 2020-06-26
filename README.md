@@ -38,19 +38,24 @@ samsvarandi "áhrifa" breyting á `ahrif/YYYY/XXX` branchi og í framhaldi af þ
 
 ---
 
-Tæknilegar breytingar sem snúa *ekki* að útgáfu reglugerðanna:
+Tæknilegar breytingar sem snúa _ekki_ að útgáfu reglugerðanna:
 
     Admin: Uppfæra upplýsingar í README.md
 
-
 ## Dagsetningar fyrir 2. janúar 1970
 
-Tæknilegar ástæður valda því að elstu mögulegu dagsetningarnar eru 1. janúar 1970.
+Tæknilegar ástæður valda því að elstu mögulegu dagsetningarnar eru 1.
+janúar 1970.
 
-Því eru öllum dagsetningum á bilinu frá byrjun árs 1800 til og með 1. janúar 1970 varpað niður á 1. janúar 1970.
+Því eru öllum dagsetningum á bilinu frá byrjun árs 1800 til og með 1. janúar
+1970 varpað niður á 1. janúar 1970.
 
-Fyrir hverja dagsetningu á þessu tímabili er reiknaður fjöldi heilla almanaksdaga frá 1. janúar 1800 og dagsetningin táknuð með sama fjölda heilla sekúndna frá miðnætti 1. janúar 1970.
+Fyrir hverja dagsetningu á þessu tímabili er reiknaður fjöldi heilla
+almanaksdaga frá 1. janúar 1800 og dagsetningin táknuð með sama fjölda heilla
+sekúndna frá miðnætti 1. janúar 1970.
 
-Tímakóðinn `1970-01-01T00:00:41` táknar þannig "11. febrúar 1800", og kóðinn `1970-01-01T14:39:22` táknar "17. júní 1945"
+Tímakóðinn `1970-01-01T00:00:41` táknar þannig "11. febrúar 1800", og kóðinn
+`1970-01-01T14:39:22` táknar "17. júní 1945"
 
-Tímabilið frá og með `1970-01-01T17:14:52` fram að miðnætti þann dag er ekkert notað.
+Tímabilið frá og með `1970-01-01T17:14:52` fram að miðnætti þann dag er ekkert
+notað.
