@@ -3,6 +3,8 @@
 Reglugerðasafn stjórnarráðsins á XML+HTML formi með fullri breytingasögu, og
 áhrifum breyingagreglugerða felldum inn í texta viðkomandi stofnreglugerðar.
 
+_**ATH:** Þetta er bara proof-of-concept högun. Form XML skjalanna mun taka gagngerum breytingum._
+
 ## Form breytingasögunnar
 
 Í hvert skipti sem skrifað er í breytingasöguna eru notuð stöðluð skilaboð á
